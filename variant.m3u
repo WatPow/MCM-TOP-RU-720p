@@ -1,15 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:5
 
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2169207,CODECS="avc1.64001e,mp4a.40.29",RESOLUTION=800x450,FRAME-RATE=25.000
-http://a775797448-zabava-htlive.cdn.ngenix.net/hls/CH_MCMTOP/video_800x450_avc1/playlist.m3u8?useseq=t
-
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1658337,CODECS="avc1.64001e,mp4a.40.29",RESOLUTION=640x360,FRAME-RATE=25.000
-http://a775797448-zabava-htlive.cdn.ngenix.net/hls/CH_MCMTOP/video_640x360_avc1/playlist.m3u8?useseq=t
-
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=738772,CODECS="avc1.64000d,mp4a.40.29",RESOLUTION=384x216,FRAME-RATE=25.000
-http://a775797448-zabava-htlive.cdn.ngenix.net/hls/CH_MCMTOP/video_384x216_avc1/playlist.m3u8?useseq=t
-
-#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=92346,CODECS="avc1.64000d",RESOLUTION=384x216,URI="http://a775797448-zabava-htlive.cdn.ngenix.net/hls/CH_MCMTOP/video_384x216_avc1/iframes.m3u8?useseq=t"
-#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=207292,CODECS="avc1.64001e",RESOLUTION=640x360,URI="http://a775797448-zabava-htlive.cdn.ngenix.net/hls/CH_MCMTOP/video_640x360_avc1/iframes.m3u8?useseq=t"
-#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=271150,CODECS="avc1.64001e",RESOLUTION=800x450,URI="http://a775797448-zabava-htlive.cdn.ngenix.net/hls/CH_MCMTOP/video_800x450_avc1/iframes.m3u8?useseq=t"
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3072000,CODECS="avc1.64001f,mp4a.40.29",RESOLUTION=1280x720,FRAME-RATE=25.000
+http://a775797448-zabava-htlive.cdn.ngenix.net/hls/CH_MCMTOP/video_1280x720_avc1/playlist.m3u8?useseq=t
